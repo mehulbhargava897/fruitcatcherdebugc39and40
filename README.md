@@ -1,2 +1,1 @@
-# fruitcatcherdebugc39and40
-Class: 40
+# C39-Debug-Part-1
